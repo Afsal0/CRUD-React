@@ -1,0 +1,22 @@
+.add_company {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.user_entry {
+  display: flex;
+  width: 40%;
+  margin: 0 auto;
+  flex-direction: column;
+  justify-content: space-around;
+  border: 1px solid black;
+}
+
+.save_cancel {
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  margin: 0 auto;
+  gap: 10px;
+}

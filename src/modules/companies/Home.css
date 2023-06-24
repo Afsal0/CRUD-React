@@ -1,0 +1,18 @@
+.home {
+}
+.header {
+  text-align: center;
+}
+.company_details {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+.list_of_companies {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.add_company {
+  text-align: center;
+}
